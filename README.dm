@@ -14,7 +14,10 @@ grupo x
   - git checkout main : este comando sirve para poder moverse a la rama del main
   - git merge "nombre rama" : se utiliza para combinar los cambios realizados en la rama establecida con la rama en la que se encuentra el desarrollador
   - git push origin main : para subir los cambios de la máquina física al repositorio remoto
-  - git pull origin main : para actualizar el repositorio local con los cambios de main
+  - git pull origin main : para actualizar el repositorio local con los cambios de main 
 
 * Enlace al repositorio de GitHub: https://github.com/Jlopez0430/DesarrolloDeSofware-lab1-/settings/access?guidance task=
  
+
+
+
